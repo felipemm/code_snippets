@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^header.jpg$ http://www.wooplugins.com.br/helpdesk/images/default/header.png [L]
+RewriteRule ^header_lower.jpg$ http://www.wooplugins.com.br/helpdesk/images/default/header_lower.png [L]
