@@ -1,0 +1,15 @@
+Instruções de instalação:
+
+woocommerce_checkout.js - copiar o conteúdo do arquivo para a página do wordpress configurada como página de checkout do woocommerce
+
+woocommerce_edit_address.js - copiar o conteúdo do arquivo para a página do wordpress configurada como página do editor do endereço do usuário
+
+
+
+
+É proibida a venda ou distribuição, parcial ou total, do conteúdo destes códigos sem consentimento do autor.
+
+Felipe Matos Moreira
+chucky_ath@yahoo.com.br
+
+Todos os direitos reservados
