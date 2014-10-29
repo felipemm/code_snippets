@@ -1,0 +1,52 @@
+﻿.icon-login {
+	background-image: url(../img/icons/login.png) !important;
+	background-size:45px 45px;
+	background-position:center top; 
+	width: 53px !important;
+	height:50px !important;
+}
+.icon-logout {
+	background-image: url(../img/icons/logout.png) !important;
+	background-size:45px 45px;
+	background-position:center top; 
+	width: 53px !important;
+	height:50px !important;
+}
+.icon-cadastrar {
+	background-image: url(../img/icons/register.png) !important;
+	background-size:45px 45px;
+	background-position:center top; 
+	width: 53px !important;
+	height:50px !important;
+}
+
+.makeInvisible {
+	opacity: 0.5 !important;
+}
+.makeInvisible:hover {
+	opacity: 1.0 !important;
+}
+
+
+div [id^='form-'] *{box-sizing:border-box !important;-moz-box-sizing:border-box !important;-ms-box-sizing:border-box !important;-webkit-box-sizing:border-box !important;}
+
+#main_canvas *{box-sizing:content-box;-moz-box-sizing:content-box;-ms-box-sizing:content-box;-webkit-box-sizing:content-box}
+
+
+#header {
+    background: #7F99BE;
+}
+
+#header .socialBtn {
+	float: right;
+	margin-top: 2px;
+	z-index: 1000;
+}
+
+#header h1 {
+	color: whitesmoke;
+	float: left;
+	margin-left: 2px;
+	margin-top: 4px;
+	font-size: 14px;
+}
